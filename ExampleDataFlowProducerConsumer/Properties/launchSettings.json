@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExampleDataFlowProducerConsumer": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\temp\\ExampleSourceContent\\sourcedata.zip  C:\\temp\\ExampleOutputContent\\out.zip"
+    }
+  }
+}
